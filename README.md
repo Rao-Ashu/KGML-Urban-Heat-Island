@@ -1,7 +1,7 @@
 # KGML & PINN for Urban Heat Island (UHI) Estimation
 
 ## Project Overview
-This repository contains trail and implementation for **Knowledge-Guided Machine Learning (KGML)**, specifically targeting environmental monitoring and the Green Transition, on my masters thesis prediction model and dataset. 
+This repository contains trial and implementation for **Knowledge-Guided Machine Learning (KGML)**, specifically targeting environmental monitoring and the Green Transition, on my masters thesis prediction model and dataset. 
 
 Standard, purely data-driven machine learning models often fail to generalize when predicting environmental phenomena because they do not inherently understand the laws of physics. In this project, I developed a **Physics-Informed Neural Network (PINN)** using a custom TensorFlow training loop to predict Urban Heat Island (UHI) effects. By bridging deep learning with thermodynamic constraints, the model is guided by both empirical data and physical laws.
 
